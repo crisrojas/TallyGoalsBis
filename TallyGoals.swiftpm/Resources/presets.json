@@ -1,0 +1,54 @@
+{ 
+    "categories": [
+        {
+            "emoji": "💧",
+            "title": "Clarity",
+            "presets": [
+                { "title": "Read an article deliberately (no side-tabs)" },
+                { "title": "Watch a video deliberately (no side-tabs)" },
+                { "title": "Fold clothes before the day ends" },
+                { "title": "Turn off wifi" },
+                { "title": "Expend at least 1h disconnected from the internet" }
+            ]
+        },
+        {
+            "emoji": "💪",
+            "title": "Discipline & Willpower",
+            "presets": [
+                { "title": "Resist a tentation" },
+                { "title": "Make today what I want to do tomorrow" }
+            ]
+        },
+        {
+            "emoji": "🏋️‍♂️",
+            "title": "Health & Sport",
+            "presets": [
+                { "title": "10 push-ups" },
+                { "title": "10 minutes of jump rope" }
+            ]
+        },
+        {
+            "emoji": "🥗",
+            "title": "Nutrition",
+            "presets": [
+                { "title": "Whole day without sugar" },
+                { "title": "Whole day without carbs" }
+            ]
+        },
+        {
+            "emoji": "🙏",
+            "title": "Religion",
+            "presets": [
+                { "title": "One meditated, intentional & full-consciousness pray" },
+                { "title": "Do something good for someone else" }
+            ]
+        },
+        {
+            "emoji": "🙂",
+            "title": "Well-being",
+            "presets": [
+                { "title": "Refrain from talking badly about someone that was unfair" }
+            ]
+        }
+    ]
+}
